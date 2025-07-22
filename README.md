@@ -39,7 +39,7 @@ An RFID-based access system using **Raspberry Pi** and **Firebase Realtime Datab
 
 | RFID Circuit | Firebase DB Output |
 |--------------|--------------------|
-| ![Circuit](photos/circuit.jpg) | ![Firebase](photos/rfid_fb.jpg) |
+| ![Circuit](images/circuit.jpg) | ![Firebase](images/rfid_fb.jpg) |
 
 ---
 
